@@ -1,0 +1,20 @@
+--- !ruby/object:Game
+letter_arr:
+- s
+- a
+- i
+- h
+- u
+new_game: true
+secret_word: foreleg
+chances: 4
+live: I LIVE
+clues: "-o-ele-"
+secret_arr:
+- f
+- o
+- r
+- e
+- l
+- e
+- g
